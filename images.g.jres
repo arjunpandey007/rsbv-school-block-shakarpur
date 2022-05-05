@@ -1,0 +1,34 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
+    "image2": {
+        "data": "hwQQABAAAACIiIi4i4iIiIiIiLu7iIiIiIi7q7uLiIiIiKtEqruIiIi4q2RGtIiIiLiq1m26i4iIuISEbaSLiIi4qkhGuouIiLirRKS7iIiIiLuquIuIiIiIuLu7iIiIiIiIu4iIiIiIiLi7i4iIiIiIu6q7iIiIiLirirqLiIiIuIqIqIuIiA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "fish"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage0"
+    },
+    "image3": {
+        "data": "hwQQABAAAAB3d323e3fnd313d7u7d3d3d3e7q7t7d3d3d6tEqrt353e3q2RGtHd3d7eq1m26e3d+t4SEbaR713e3qkhGunt3d7erRKS7d3d3d7uquHvnd3d3t7u7d3d3d3d3u3d3d+d+d7e7e9d3d3d3u6q7d+d3d7ererp7d3d3t3p3p3t35w==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "fish0"
+    },
+    "anim1": {
+        "namespace": "myAnimations",
+        "id": "anim1",
+        "mimeType": "application/mkcd-animation",
+        "data": "YzgwMDEwMDAxMDAwMDEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAzMDAwMDAwMDAwMDAwMDAwMzAwMDAzMzMzMzMzMzMzMDMwMDAwMzMwMDAwMzAwMDAwMDAwMDMwMzMzMzMzMDAwMDAwMDAwMDAzMzMwMDAwMDAwMDAwMDAwMzMwMDAwMDAwMDAwMDAwMDMzMDAwMDAwMDAwMDAwMDAzMzAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA=",
+        "displayName": "myAnim"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
